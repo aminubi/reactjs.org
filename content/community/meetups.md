@@ -79,6 +79,9 @@ Do you have a local React.js meetup? Add it here! (Please keep the list alphabet
 ## Netherlands {#netherlands}
 * [Amsterdam](https://www.meetup.com/React-Amsterdam/)
 
+## Nigeria {#nigeria}
+* [Kano] (https://wwww.facebook.com/groups/reactjskano)
+
 ## New Zealand {#new-zealand}
 * [Wellington](https://www.meetup.com/React-Wellington/)
 
